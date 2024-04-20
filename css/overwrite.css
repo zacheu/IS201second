@@ -1,0 +1,14 @@
+p{
+    font-family: calibri;
+    color: black
+}
+ol{
+    font-family: calibri;
+    colo: black
+}
+
+.styled-video {
+    border: 5px solid #ccc; /* Grey border */
+    padding: 10px; /* Padding around the video */
+    background-color: #fff; /* White background around the video */
+}
